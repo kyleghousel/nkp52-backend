@@ -1,5 +1,5 @@
 {
-  "name": "shelfie-db",
+  "name": "nkp52-db",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
